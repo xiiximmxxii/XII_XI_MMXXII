@@ -4,6 +4,8 @@ author: 'GitHub'
 on: 
   push:
   workflow_dispatch:
+    branches:
+      - master
     runs:
       using: 'node16'
       main: 'dist/index.js'
