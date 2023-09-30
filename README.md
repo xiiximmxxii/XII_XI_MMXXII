@@ -9,5 +9,11 @@ Activity 2:
 ![image](https://github.com/mvernooy3687/mvernooy3687.github.io/assets/71790275/9919671b-263b-474f-a82e-54c5b70dde62)
 ![image](https://github.com/mvernooy3687/mvernooy3687.github.io/assets/71790275/e44af50f-36ee-4b2c-972d-0324a7ff3102)
 
+Activity 3:
+![image](https://github.com/mvernooy3687/mvernooy3687.github.io/assets/71790275/2604a1f0-a722-4dcd-ad25-fe5b109d0abc)
+![image](https://github.com/mvernooy3687/mvernooy3687.github.io/assets/71790275/33ae722d-340e-45be-881c-2e64283c56b2)
+
+
+
 
 
