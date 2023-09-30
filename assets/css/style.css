@@ -85,7 +85,7 @@
   position: relative;
   padding: 11px 35px;
   background: #fff;
-  color: #00796b;
+  color: #c076e3;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -97,7 +97,7 @@
 
 /* .readme:hover{
   color: white;
-  background-color: #00796b;
+  background-color: #c076e3;
 } */
 
 .contactme {
@@ -116,7 +116,7 @@
 }
 
 .contactme:hover{
-  color: #00796b;
+  color: #c076e3;
   background-color: white;
 }
 /* main body */
@@ -549,7 +549,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #c076e3 !important;
+  color: #008073 !important;
 }
 
 /* .teal-text {
@@ -559,7 +559,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #c076e3 !important;
+  background-color: #008073 !important;
 }
 
 /* .teal {
